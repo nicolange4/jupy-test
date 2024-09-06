@@ -7,5 +7,5 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
-- file: superbook2/notebooks/exd-api/overview
-- file: superbook2/notebooks/ods/overview
+- file: notebooks/exd-api/overview
+- file: notebooks/ods/overview
