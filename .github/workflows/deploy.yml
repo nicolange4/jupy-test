@@ -47,6 +47,7 @@ jobs:
           path: "odsbook/_build/html"
 
       # Upload the book's HTML as an artifact
+      - name : Upload Notebooks
         uses: actions/upload-artifact@v4
         with:
           name: Upload artifact
