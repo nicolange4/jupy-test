@@ -3,9 +3,16 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
-- file: notebooks/exd-api/overview
-- file: notebooks/ods/overview
+parts:
+  - caption: Caption 1
+    chapters:
+    - file: notebooks/exd-api/overview
+    - file: markdown-notebooks
+      sections:
+      - file: notebooks
+  - caption: Caption 2
+    chapters:
+    - file: notebooks/ods/overview
+    - file: markdown
+      sections:
+      - file: notebooks
