@@ -4,15 +4,13 @@
 format: jb-book
 root: intro
 parts:
-  - caption: EXD API
+  - caption: EXD-API
     chapters:
     - file: notebooks/exd-api/overview
     - file: markdown-notebooks
       sections:
-      - file: notebooks
+      - file: notebooks/exd-api/notebooks
   - caption: ODS
     chapters:
     - file: notebooks/ods/overview
     - file: markdown
-      sections:
-      - file: content
