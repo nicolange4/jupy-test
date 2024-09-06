@@ -5,29 +5,10 @@ author: 'NLA>'
 execute:
   execute_notebooks: "force"
 
-html:
-  use_edit_page_button : true
-  use_repository_button: true
-  baseurl              : https://nicolange4.github.io/jupy-test
-
-repository:
-  url: https://github.com/nicolange4/jupy-test
-  branch: source
-
-launch_buttons:
-  binderhub_url: "https://mybinder.org"
-  colab_url    : "https://colab.research.google.com"
-  thebe        : true
-
-latex:
-  latex_documents:
-    targetname: book.tex
-
 parse:
   myst_enable_extensions:
     - html_image
     - dollarmath
-
 
 bibtex_bibfiles:
   - bibliography.bib
