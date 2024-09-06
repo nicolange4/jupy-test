@@ -1,6 +1,6 @@
 title: "JUPY-TEST"
 copyright: '2024, Peak Solution'
-author: 'NLA_'
+author: 'NLA'
 
 execute:
   execute_notebooks: "force"
