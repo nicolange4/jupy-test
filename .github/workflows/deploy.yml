@@ -50,7 +50,7 @@ jobs:
       - name : Upload Notebooks
         uses: actions/upload-artifact@v4
         with:
-          name: Upload artifact
+          name: odsbook-notebooks
           path: "odsbook/notebooks" 
 
       # Deploy the book's HTML to GitHub Pages
