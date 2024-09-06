@@ -8,7 +8,7 @@ execute:
 html:
   use_edit_page_button : true
   use_repository_button: true
-  baseurl              : https://github.com/nicolange4/jupy-test
+  baseurl              : https://nicolange4.github.com/jupy-test
 
 repository:
   url: https://github.com/nicolange4/jupy-test
