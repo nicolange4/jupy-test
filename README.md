@@ -1,4 +1,4 @@
-# superbook2
+# odsbook
 
 This cookiecutter creates a simple boilerplate for a Jupyter Book.
 
@@ -6,15 +6,15 @@ This cookiecutter creates a simple boilerplate for a Jupyter Book.
 
 ### Building the book
 
-If you'd like to develop and/or build the superbook2 book, you should:
+If you'd like to develop and/or build the odsbook book, you should:
 
 1. Clone this repository
 2. Run `pip install -r requirements.txt` (it is recommended you do this within a virtual environment)
-3. (Optional) Edit the books source files located in the `superbook2/` directory
-4. Run `jupyter-book clean superbook2/` to remove any existing builds
-5. Run `jupyter-book build superbook2/`
+3. (Optional) Edit the books source files located in the `odsbook/` directory
+4. Run `jupyter-book clean odsbook/` to remove any existing builds
+5. Run `jupyter-book build odsbook/`
 
-A fully-rendered HTML version of the book will be built in `superbook2/_build/html/`.
+A fully-rendered HTML version of the book will be built in `odsbook/_build/html/`.
 
 ### Hosting the book
 
@@ -24,7 +24,7 @@ For GitHub and GitLab deployment specifically, the [cookiecutter-jupyter-book](h
 
 ## Contributors
 
-We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/nicolange4/superbook2/graphs/contributors).
+We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/nicolange4/odsbook/graphs/contributors).
 
 ## Credits
 

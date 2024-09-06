@@ -25,8 +25,8 @@ and "help wanted" is open to whoever wants to implement it.
 
 ## Write Documentation
 
-superbook2 could always use more documentation, whether as part of the
-official superbook2 docs, in docstrings, or even on the web in blog posts,
+odsbook could always use more documentation, whether as part of the
+official odsbook docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 ## Submit Feedback
@@ -42,7 +42,7 @@ If you are proposing a feature:
 
 ## Get Started
 
-Ready to contribute? Here's how to set up `superbook2` for local development.
+Ready to contribute? Here's how to set up `odsbook` for local development.
 
 1. Fork the repo on GitHub.
 2. Clone your fork locally.
@@ -53,4 +53,4 @@ Ready to contribute? Here's how to set up `superbook2` for local development.
 
 ## Code of Conduct
 
-Please note that the superbook2 project is released with a [Contributor Code of Conduct](CONDUCT.md). By contributing to this project you agree to abide by its terms.
+Please note that the odsbook project is released with a [Contributor Code of Conduct](CONDUCT.md). By contributing to this project you agree to abide by its terms.
