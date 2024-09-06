@@ -47,9 +47,9 @@ jobs:
           path: "odsbook/_build/html"
 
       # Upload the book's HTML as an artifact
-      - name: Upload artifact
-        uses: actions/upload-notebooks-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
+          name: Upload artifact
           path: "odsbook/notebooks" 
 
       # Deploy the book's HTML to GitHub Pages
